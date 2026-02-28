@@ -17,3 +17,4 @@
 
 ### Notes:
 - Most of my actual projects are private or have been sold
+- My public projects aren’t polished because I either don’t have time to refine them or polishing isn’t reasonable
