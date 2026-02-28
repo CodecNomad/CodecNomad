@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
+## I'm a polyglot developer based in the EU. I started coding around 2018.
 
-<!--
-**CodecNomad/CodecNomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Some of the languages I've worked with:
+- C, C++, Rust, Go
+- JavaScript (JS), TypeScript (TS), Java, Kotlin
+- Python, Lua
+> - Assembly (I can read and understand it, but I don’t write it)
 
-Here are some ideas to get you started:
+### Preferences:
+- TailwindCSS, Next.js
+- Podman
+- AWS, Google Cloud
+- Cloudflare
+- Arch Linux, SwayWM
+- Jetbrains IDEs, Astro Nvim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Notes:
+- Most of my actual projects are private or have been sold
